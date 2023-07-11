@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Priyanshi Bhatnagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow/community?lb=UgkxrNtAFKEdyrQe7KokfeVFgqYzHfE6bEhj")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshibhatn&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshibhatn" /> </p>
 
