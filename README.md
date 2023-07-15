@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif)
+![MasterHead](https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif)
 <h1 align="center">Hi 👋, I'm Priyanshi Bhatnagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif"
