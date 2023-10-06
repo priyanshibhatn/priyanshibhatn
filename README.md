@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Priyanshi Bhatnagar</h1>
-<h3 align="center"></h3>
+<h3 align="center">Learning And Growing</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif"
 
 
